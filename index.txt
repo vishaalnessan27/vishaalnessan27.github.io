@@ -3,7 +3,7 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Vishaalnessan
-Richard hanrick
+Vishaalnessan
 First Year Student At UTM
 
 Show Contacts
