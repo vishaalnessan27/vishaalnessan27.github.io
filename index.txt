@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+vishaal - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Vishaalnessan
 Richard hanrick
-Web developer
+First Year Student At UTM
 
 Show Contacts
 
 Email
-richard@example.com
+rvishaalnessan@gmail.com
 
 Phone
-+1 (213) 352-2795
+0167495851
 
 Birthday
-June 23, 1982
+May 27, 2006
 
 Location
-Sacramento, California, USA
+Johor Bahru , Malaysia
 
 # navbar
 
