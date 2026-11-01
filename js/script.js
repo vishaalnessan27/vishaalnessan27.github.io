@@ -1,25 +1,24 @@
-
-vCard - Personal Portfolio
+VISH-Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = VISHAALNESSAN
+VISHAALNESSAN
+FIRST YEAR STUDENT AT UTM
 
 Show Contacts
 
 Email
-richard@example.com
+rvishaalnessan@gmail.com
 
 Phone
-+1 (213) 352-2795
+016-7495851
 
 Birthday
-June 23, 1982
+May 27, 2006
 
 Location
-Sacramento, California, USA
+Johor, Johor Bahru, Malaysia
 
 # navbar
 
@@ -33,10 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I am pursuing my Degree in Bachelors in Computer Science (Data Engineering) at UNIVERSITI TEKNOLOGI MALAYSIA (UTM)
 
 ## service
 
